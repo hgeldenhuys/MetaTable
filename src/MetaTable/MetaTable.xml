@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<widget id="MetaTable.widget.MetaTable" needsEntityContext="true" xmlns="http://www.mendix.com/widget/1.0/">
+    <name>MetaTable</name>
+    <description>The description of this widget.</description>
+
+    <icon>
+    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
+    </icon>
+
+    <properties>
+        <property key="tableName" type="attribute" isPath="optional" pathType="reference" allowNonPersistableEntities="true" isDefault="true" required="true">
+            <caption>Table Name</caption>
+            <category>Data</category>
+            <description>Table name attribute</description>
+            <attributeTypes>
+                <attributeType name="String"/>
+            </attributeTypes>
+        </property>
+        <property key="ignoreTables" type="string" defaultValue="System.*;">
+            <caption>Ignored Tables</caption>
+            <category>Filter</category>
+            <description>Ignore these tables, use comma-separators. Example: System.User</description>
+        </property>
+        <property key="moduleLabel" type="translatableString" required="true">
+            <caption>Module label</caption>
+            <category>Display</category>
+            <description>The label for the module select</description>
+        </property>
+        <property key="entityLabel" type="translatableString" required="true">
+            <caption>Entity label</caption>
+            <category>Display</category>
+            <description>The label for the entity select</description>
+        </property>
+        <property key="onchangeMicroflow" type="microflow" required="false">
+            <caption>On Change</caption>
+            <category>Events</category>
+            <description>On change microflow</description>
+            <returnType type="Void"/>
+        </property>
+
+    </properties>
+</widget>
+
